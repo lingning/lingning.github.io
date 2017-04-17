@@ -5,4 +5,4 @@ a blog
 ##test3
 
 [baidu](www.baidu.com)
-![](http://www.baidu.com/img/bdlogo.gif)  
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
