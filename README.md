@@ -7,4 +7,4 @@ a blog
 [baidu](www.baidu.com)
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
-[我的简介](./test.html)
+[我的简介](/test/test1)
