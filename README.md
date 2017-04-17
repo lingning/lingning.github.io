@@ -4,4 +4,4 @@ big theme
 =========
 small theme
 ---------
-[baidu]www.baidu.com
+[baidu](www.baidu.com)
